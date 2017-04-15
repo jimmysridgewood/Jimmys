@@ -18,7 +18,7 @@ body {
   font-style: normal;
 }>
 .box {
-  font-style: normal;
+
 
 }
 
@@ -38,5 +38,17 @@ padding: 180px;
 width: 70%;
 font-style: normal;
 
+
+}
+
+.canio{
+  font-style: normal;
+  text-indent: inherit;
+  position: center
+}
+
+.bios{
+
+  font-style: normal;
 
 }
