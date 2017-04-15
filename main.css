@@ -1,6 +1,6 @@
 body {
   font-family: Times, serif;
-  padding: 0;
+  padding: 20px;
   background-color: white;
   color: #000;
   margin: 2em
@@ -18,7 +18,7 @@ body {
   font-style: normal;
 }>
 .box {
-
+padding:20px;
 
 }
 
