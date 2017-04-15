@@ -3,7 +3,8 @@ body {
   padding: 0;
   background-color: white;
   color: #000;
-  margin: 2em;
+  margin: 2em
+  font-style:normal;
 }
 
 <!---.lemon {
@@ -16,6 +17,7 @@ body {
   padding:0;
 }>
 .box {
+  font-style: normal;
 
 }
 
@@ -33,6 +35,7 @@ position: center,;
 text-align: left;
 padding: 180px;
 width: 70%;
+font-style: normal;
 
 
 }
