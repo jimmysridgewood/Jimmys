@@ -1,0 +1,46 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <title>Gern en regalia</title>
+
+  <!-- linking to external css -->
+  <link href="main.css" type="text/css" rel="stylesheet">
+
+</head>
+<div class= "normal">
+
+<body>
+<div class="box">
+
+  Welcome to Gern
+
+  <h1>
+   <img
+  	 src="http://mariomiron.com/cms/files/projects/gern/Screen%20Shot%202017-08-07%20at%209.08.32%20PM.png"
+  	 style="width:300px;height:228px;"/></a></h1>
+  <!--NOTE the &nbsp; above!!! -->
+
+  <p>Gern en regalia is a project and a part of an artist-run space located at 55-19 Metropolitan ave. Ridgewood, NY. </p>
+
+  <p>View by apponitment -
+    Gernenregalia@gmail.com
+<p>Mario Miron 510.260.9320</p>
+<p>Joseph McGehee 206.321.0447 </p>
+
+Please visit our older project called Jimmys at
+
+Jimmysridegwood.com
+
+  <p>&nbsp;</p>
+
+  <p>
+<img src="http://mariomiron.com/cms/files/projects/ficus/ficus%20flyer%202.jpg"/><a>
+
+<a href="https://mybrothersgarden.wordpress.com/tag/ficus-interfaith/">Mybrothersgarden.com</a>
+
+<div class="Ficus">
+
+
+</div>
+
+</html>
